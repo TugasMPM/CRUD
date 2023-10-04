@@ -4,7 +4,14 @@
 
 <nav class="navbar navbar-expand static-top">
 
-    <a class="navbar-brand mr-1" href="<?php echo site_url() ?>">SiAlif</a>
+    <!-- <a class="navbar-brand mr-1" href="<?php echo site_url() ?>">SiAlif</a> -->
+
+    <a class="navbar-brand mr-1" href="<?php echo site_url() ?>">
+    <div>
+        <img src="https://pelajarinfo.id/wp-content/uploads/2021/06/Universitas-Diponegoro-Semarang-Logo.png" alt="Logo SiAlif" style="width: 40px; height: 40px; padding: 0px">
+        SiAlif
+    </div>
+    </a>    
 
     <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
         <i class="fas fa-bars"></i>
