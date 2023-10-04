@@ -15,7 +15,7 @@ Proyek ini dikembangkan sebagai bagian dari tugas kuliah oleh anggota tim beriku
 
 - **Alif Rachmat Illahi (21060120120015)**: [Linkedin](https://www.linkedin.com/in/alifrachmat)
 - **Yudhi Winantoro (21060120120009)**: [Linkedin](https://www.linkedin.com/in/yudhi-winantoro-1856a7206/)
-- **Nadhif Lazuardi Aulia Rahim (21060120120004)**: (https://www.linkedin.com/in/nadhif-lazuardi/)
+- **Nadhif Lazuardi Aulia Rahim (21060120120004)**: [Linkedin](https://www.linkedin.com/in/nadhif-lazuardi/)
 
 ## Tujuan Proyek
 
