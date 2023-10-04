@@ -6,8 +6,8 @@
 
     <a class="navbar-brand mr-1" href="<?php echo site_url() ?>">
     <div>
-        <img src="https://pelajarinfo.id/wp-content/uploads/2021/06/Universitas-Diponegoro-Semarang-Logo.png" alt="Logo SiAlif" style="width: 40px; height: 40px; padding: 0px">
-        SiAlif
+        <img src="https://pelajarinfo.id/wp-content/uploads/2021/06/Universitas-Diponegoro-Semarang-Logo.png" alt="Logo SiAlip" style="width: 40px; height: 40px; padding: 0px">
+        SiAlip
     </div>
     </a>    
 
