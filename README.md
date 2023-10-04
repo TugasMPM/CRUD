@@ -30,7 +30,7 @@ Tujuan utama dari proyek ini adalah sebagai berikut:
 1. Klona repository ini ke lingkungan pengembangan lokal Anda.
 
    ```bash
-   git clone https://github.com/username-anda/repo-anda.git
+   git clone https://github.com/TugasMPM/CRUD.git
    ```
 
 2. Siapkan server web lokal dengan PHP dan MySQL.
