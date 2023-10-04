@@ -11,16 +11,12 @@
     </button>
 
     <!-- Navbar Search -->
-    <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
-        <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2">
-            <div class="input-group-append">
-                <button class="btn btn-light" type="button">
-                    <i class="fas fa-search"></i>
-                </button>
-            </div>
-        </div>
+    <form class="d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0" action="<?= site_url('search?keyword=PLACEHOLDER') ?>" method="get">
+            <input type="search" name="keyword" style="width: 360px; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" placeholder="Enter Username" >
+            <button type="submit" style="padding: 10px 20px; background-color: #007bff; color: #fff; border: none; border-radius: 5px; cursor: pointer;margin-left:10px;"value="Cari"  href="<?= site_url('buku/cari') ?>">Search</button>
     </form>
+  
+
 
     <!-- Navbar -->
     <ul class="navbar-nav ml-auto ml-md-0">
