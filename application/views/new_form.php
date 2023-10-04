@@ -5,7 +5,7 @@
 	<?php $this->load->view('_partials/head.php'); ?>
 </head>
 
-<body>
+<body class="bg">
 	<?php $this->load->view('_partials/navbar.php');
 	?>
 	<?php if ($this->session->flashdata('success')) : ?>

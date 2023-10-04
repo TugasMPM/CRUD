@@ -4,12 +4,12 @@
 <head>
     <?php $this->load->view('_partials/head.php'); ?>
 </head>
-<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
+<body class="bg">
     <header>
         <?php $this->load->view('_partials/navbar.php'); ?>
     </header>
 
-    <div class="container" style="max-width: 1920px; margin: 0 auto; padding: 20px; text-align: center;">
+    <div class="container" style="max-width: 1920px; padding-top:20px; text-align: center;">
 		<h1 style="color: #333;">Cari User</h1>
         <p style="color: #666;">Tuliskan kata kunci  yang ingin kamu cari</p>
         <form action="" method="get" style="display: flex; align-items: center; justify-content: center;">
@@ -18,8 +18,7 @@
         </form>
 		
         <?php if ($search_result) : ?>
-				<div class="search-results" style="margin-top: 20px;align-items: left; justify-content: left;">
-
+				<div class="search-results" style="padding-top: 20px;align-items: left;">
 					<table class="table" style="text-align: left;">					
 						<thead>
 						<tr>	<th>Nama</th>
