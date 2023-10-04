@@ -6,6 +6,8 @@
 <style>
 	
 	.navbar {
+		top:0;
+		position: fixed;
 		display: flex;
 		gap: 1em;
 		background-color: teal;
@@ -27,7 +29,7 @@
 		font-family: sans-serif;
 		background-color: whitesmoke;
 		padding: 1em;
-		position: absolute;
+		position: fixed;
 		width:100%;
    		bottom: 0;
 		text-align: center;
