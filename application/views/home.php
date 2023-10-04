@@ -8,8 +8,11 @@
 <body>
     <?php $this->load->view('_partials/navbar.php');
     ?>
- 
     <h1>Home Page</h1>
+    <div class="container">
+    <h1>Home Page</h1>
+</div>
+    
  
     <?php $this->load->view('_partials/footer.php'); ?>
 </body>
