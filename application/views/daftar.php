@@ -47,6 +47,11 @@
             </tbody>
         </table>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <?php $this->load->view('_partials/footer.php'); ?>
 </body>
 </html>
