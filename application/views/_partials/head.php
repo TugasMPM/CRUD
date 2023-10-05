@@ -30,6 +30,7 @@
 		background-color: rgba(255, 255, 255, 0.1);
 	}
 
+
 	footer {
 		font-family: Arial, sans-serif; 
 		background-color: whitesmoke;
@@ -42,5 +43,4 @@
 		border-top: 1px solid lightgray;
 	}
 
-	
 </style>
