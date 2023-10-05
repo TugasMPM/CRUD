@@ -1,11 +1,18 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title><?= isset($meta['title']) ? $meta['title'] : 'Tugas MPM' ?></title>
+<title><?= isset($meta['title']) ? $meta['title'] : 'CRUD' ?></title>
 
 <style>
-	
+	.bg {
+		font-family: Arial, sans-serif; 
+		background-color: whitesmoke;
+		margin: 0;
+   		padding: 0;
+	}
 	.navbar {
+		top:0;
+		position: fixed;
 		display: flex;
 		gap: 1em;
 		background-color: teal;

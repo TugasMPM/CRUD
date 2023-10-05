@@ -29,7 +29,7 @@
 
 </head>
  
-<body>
+<body class="bg">
     <?php $this->load->view('_partials/navbar.php');
     ?>
     <h1 style="margin-left: 30px; margin-top: 20px">Sistem Informasi <br> Aplikasi <br> Manajemen Pengguna</h1>

@@ -5,6 +5,7 @@
 	<?php $this->load->view('_partials/head.php'); ?>
 </head>
 
+
 <body>
 	<?php $this->load->view('_partials/navbar.php'); ?>
 	<h1 style="text-align: center; margin: 40px 0; font-size: 36px; font-family: sans-serif;">Tambah User Baru</h1>
